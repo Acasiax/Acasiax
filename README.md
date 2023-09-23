@@ -43,3 +43,6 @@ Here are some ideas to get you started:
 
 ![Acasiax github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Acasiax)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Acasiax)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Acasiax&theme=radical)
