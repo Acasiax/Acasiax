@@ -32,3 +32,5 @@ My Status🌊
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={Acasiax}&bg_color=000000)](https://solved.ac/{Acasiax})
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={Acasiax}&bg_color=000000)](https://solved.ac/{Acasiax})
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={Acasiax}&bg_color=000000)](https://solved.ac/{Acasiax})
+
+![Acasiax github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Acasiax)
