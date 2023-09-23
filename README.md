@@ -19,13 +19,18 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/Acasiax/Acasiax/assets/117105267/f0ce15d8-259c-4206-b215-b840a60892ee">
 
-* * *
-***
-*****
-- - -
-------------------
 
 프로젝트🔥
 -------------
 1. 키오스크 연습 어플 '꾸욱'
-1. 생일 캘린더 어플 'HBD 햅벋데' 
+1. 생일 캘린더 어플 'HBD 햅벋데'
+
+My Status🌊
+-------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acasiax)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Acasiax&show_icons=true&theme={theme})](https://github.com/{username}/github-readme-stats)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={Acasiax})](https://solved.ac/{Acasiax})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={Acasiax})](https://solved.ac/{Acasiax})
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={Acasiax})](https://solved.ac/{Acasiax})
+
