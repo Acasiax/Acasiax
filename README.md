@@ -27,10 +27,8 @@ Here are some ideas to get you started:
 
 My Status🌊
 -------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acasiax)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Acasiax&show_icons=true&theme={theme})](https://github.com/{username}/github-readme-stats)
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={Acasiax})](https://solved.ac/{Acasiax})
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={Acasiax})](https://solved.ac/{Acasiax})
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={Acasiax})](https://solved.ac/{Acasiax})
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acasiax&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acasiax&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={Acasiax}&bg_color=000000)](https://solved.ac/{Acasiax})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={Acasiax}&bg_color=000000)](https://solved.ac/{Acasiax})
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={Acasiax}&bg_color=000000)](https://solved.ac/{Acasiax})
