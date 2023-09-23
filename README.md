@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <img src="https://github.com/Acasiax/Acasiax/assets/117105267/f0ce15d8-259c-4206-b215-b840a60892ee">
 
 
-출시 프로젝트🔥
+🔥출시 프로젝트
 -------------
 1. 키오스크 연습 어플 '꾸욱'
 1. 생일 캘린더 어플 'HBD 햅벋데'
 
-My Status🌊
+🌊My Status
 -------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acasiax&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acasiax&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
