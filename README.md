@@ -34,3 +34,4 @@ My Status🌊
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={Acasiax}&bg_color=000000)](https://solved.ac/{Acasiax})
 
 ![Acasiax github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Acasiax)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Acasiax)](https://github.com/ryo-ma/github-profile-trophy)
