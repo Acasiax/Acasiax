@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->![이름-001](https://github.com/Acasiax/Acasiax/assets/117105267/82c11731-3c42-46ea-b1b9-675f4bc13f49)
 
+<img src="https://github.com/Acasiax/Acasiax/assets/117105267/82c11731-3c42-46ea-b1b9-675f4bc13f49">
