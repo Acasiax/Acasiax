@@ -1,4 +1,4 @@
-![진행상태](https://github.com/Acasiax/Acasiax/assets/117105267/84a65ccd-376d-41c5-b0a7-384fc43a6460)### Hi there 👋
+### Hi there 👋
 
 <!--
 **Acasiax/Acasiax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
