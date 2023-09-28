@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 1. 생일 캘린더 어플 'HBD 햅벋데'
 ![진행상태](https://github.com/Acasiax/Acasiax/assets/117105267/b6c46088-4b48-43ce-930e-2dc780cefd7a)
 
-💬 Languages and Tools
+💬Languages and Tools
 -------------
 
 ⚙️ GitHub Analytics
