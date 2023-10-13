@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!++I'm+Acacia" alt="Typing SVG" /></a>
 <img src="https://github.com/Acasiax/Acasiax/assets/117105267/f0ce15d8-259c-4206-b215-b840a60892ee">
 
-👾launching pad
+👾     launching pad
 -------------
 
 ![다음단계](https://github.com/Acasiax/Acasiax/assets/117105267/dc3cf329-0203-479a-ae52-96f8bbb17517)
-🔥   출시 프로젝트 launching
+🔥출시 프로젝트 launching
 -------------
 1. 키오스크 연습 어플 '꾸욱'
 1. 생일 캘린더 어플 'HBD 햅벋데'
