@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 💬Languages and Tools
 -------------
 
-⚙️GitHub Analytics
+⚙️   GitHub Analytics
 -------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acasiax&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
