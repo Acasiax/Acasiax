@@ -30,24 +30,21 @@ Here are some ideas to get you started:
 
 💬  Languages and Tools
 -------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acasiax&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ⚙️ GitHub Analytics
 -------------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acasiax&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Acasiax&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acasiax&theme=radical&show_icons=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acasiax&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={Acasiax}&bg_color=000000)](https://solved.ac/{Acasiax})
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={Acasiax}&bg_color=000000)](https://solved.ac/{Acasiax})
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={Acasiax}&bg_color=000000)](https://solved.ac/{Acasiax})
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Acasiax&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acasiax&theme=radicallayout=compact)
 
-![Acasiax github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Acasiax)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Acasiax)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Acasiax&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j" alt="GitHub Streak"></a>
+     <a href="https://stats.hyochan.dev/ko"><img src="https://stats.hyochan.dev/api/github-stats-advanced?login=Acasiax" alt="Acasiax GitHub Stats" width="60%"></a>
+     <a href="https://stats.hyochan.dev/ko"><img src="https://stats.hyochan.dev/api/github-trophies?login=Acasiax" alt="Acasiax GitHub Trophies" width="60%"></a>
+     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Acasiax" alt="trophy"></a>
+    
+</div>
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Acasiax&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Acasiax)](https://git.io/streak-stats)
 
