@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 -------------
 1. 키오스크 연습 어플 '꾸욱'
 1. 생일 캘린더 어플 'HBD 햅벋데'
-![진행상태](https://github.com/Acasiax/Acasiax/assets/117105267/b6c46088-4b48-43ce-930e-2dc780cefd7a)
+
+![이름-004](https://github.com/Acasiax/Acasiax/assets/117105267/8c78a965-c2c0-4e14-b45a-47a45739b48f)
 
 💬  Languages and Tools
 -------------
