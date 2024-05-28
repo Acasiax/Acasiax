@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 ![다음단계](https://github.com/Acasiax/Acasiax/assets/117105267/dc3cf329-0203-479a-ae52-96f8bbb17517)
 🔥 출시 프로젝트 launching
 -------------
-1. 키오스크 연습 어플 '꾸욱'
-1. 생일 캘린더 어플 'HBD 햅벋데'
+1. tvOS게임 앱 'koraen tightrope game'
+1. ㅍㅐ션쇼 앱 'SLAY 우주 여행'
+1. 키오스크 연습 앱 '꾸욱'
+1. 생일 캘린더 앱 'HBD 햅벋데'
 
 ![이름-004](https://github.com/Acasiax/Acasiax/assets/117105267/8c78a965-c2c0-4e14-b45a-47a45739b48f)
 
