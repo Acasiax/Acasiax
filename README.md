@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![다음단계](https://github.com/Acasiax/Acasiax/assets/117105267/dc3cf329-0203-479a-ae52-96f8bbb17517)
 🔥 출시 프로젝트 launching
 -------------
-1. tvOS게임 앱 'korean tightrope game'
+1. tvOS GAME 게임 앱 'Korean tightrope game'
 1. 패션쇼 앱 'SLAY 우주 여행'
 1. 키오스크 연습 앱 '꾸욱'
 1. 생일 캘린더 앱 'HBD 햅벋데'
