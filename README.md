@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 1. 키오스크 연습 앱 '꾸욱' (UIKit)
 1. 생일 캘린더 앱 'HBD 햅벋데' (SwiftUI)
 
-![이름-004](https://github.com/Acasiax/Acasiax/assets/117105267/8c78a965-c2c0-4e14-b45a-47a45739b48f)
 
 💬  Languages and Tools
 -------------
@@ -39,8 +38,7 @@ Here are some ideas to get you started:
 ⚙️ GitHub Analytics
 -------------
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Acasiax&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acasiax&theme=radical&show_icons=true)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={Acasiax}&bg_color=000000)](https://solved.ac/{Acasiax})
+
 
 <div align="center">
      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Acasiax&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j" alt="GitHub Streak"></a>
