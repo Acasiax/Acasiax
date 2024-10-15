@@ -42,5 +42,10 @@ Here are some ideas to get you started:
 
 🙋 키오스크 연습 앱
 - 디지털 약자에게 키오스크 사용법을 게임처럼 알려주는 앱
-- 
+<img width="1074" alt="스크린샷 2024-10-15 오후 2 48 51" src="https://github.com/user-attachments/assets/17e6ff50-9bc3-46ba-8c38-49456ef586c9">
+
+🙋 패션쇼 앱
+- 브랜드별 패션쇼 영상을 한눈에 모아볼 수 있는 앱
+  <img width="856" alt="스크린샷 2024-10-15 오후 2 50 39" src="https://github.com/user-attachments/assets/e538f41f-d74d-42b6-944f-e82525999886">
+
 
