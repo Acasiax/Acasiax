@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github.com/Acasiax/Acasiax/assets/117105267/f0ce15d8-259c-4206-b215-b840a60892ee">-->
 
-👾 출시 앱
+📍 출시 앱
 -------------
 1. 가상자산 포트폴리오 앱 "코인생활" (SwiftUI)
 1. tvOS GAME 게임 앱 'Korean tightrope game' (SpriteKit)
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 
 💬  Languages and Tools
+
 🙋 코인생활
 - 가상자산 코인 포트폴리오 앱
 ![코인생활-리드미-사진-001](https://github.com/user-attachments/assets/5f1897e6-57e8-45d9-9ea7-db31ca2a997f)
