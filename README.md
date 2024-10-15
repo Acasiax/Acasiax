@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 👾   launching pad
 -------------
-
+1. 가상자산 포트폴리오 앱 "코인생활" (SwiftUI)
 1. tvOS GAME 게임 앱 'Korean tightrope game' (SpriteKit)
 1. 패션쇼 앱 'SLAY 우주 여행' (SwiftUI)
 1. 키오스크 연습 앱 '꾸욱' (UIKit)
