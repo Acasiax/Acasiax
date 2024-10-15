@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 
 
 💬  Languages and Tools
+[앱스토어에서 코인생활 다운로드](https://apps.apple.com/kr/app/%EC%BD%94%EC%9D%B8%EC%83%9D%ED%99%9C-%EC%98%AC%EB%B0%94%EB%A5%B8-%EC%BD%94%EC%9D%B8-%ED%88%AC%
 
-🙋 코인생활 https://apps.apple.com/kr/app/%EC%BD%94%EC%9D%B8%EC%83%9D%ED%99%9C-%EC%98%AC%EB%B0%94%EB%A5%B8-%EC%BD%94%EC%9D%B8-%ED%88%AC%EC%9E%90%EC%9D%98-%EC%8B%9C%EC%9E%91/id6720724248
+🙋 코인생활 
 - 가상자산 코인 포트폴리오 앱 ()
 ![코인생활-리드미-사진-001](https://github.com/user-attachments/assets/5f1897e6-57e8-45d9-9ea7-db31ca2a997f)
 
