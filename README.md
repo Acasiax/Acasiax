@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 💬  Languages and Tools
 
-🙋 코인생활
-- 가상자산 코인 포트폴리오 앱
+🙋 코인생활 https://apps.apple.com/kr/app/%EC%BD%94%EC%9D%B8%EC%83%9D%ED%99%9C-%EC%98%AC%EB%B0%94%EB%A5%B8-%EC%BD%94%EC%9D%B8-%ED%88%AC%EC%9E%90%EC%9D%98-%EC%8B%9C%EC%9E%91/id6720724248
+- 가상자산 코인 포트폴리오 앱 ()
 ![코인생활-리드미-사진-001](https://github.com/user-attachments/assets/5f1897e6-57e8-45d9-9ea7-db31ca2a997f)
 
 
@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ![003](https://github.com/user-attachments/assets/0d5d68e0-bad8-410d-a416-b63af1fbaaf2)
 
 
-🙋 키오스크 연습 앱
+🙋 키오스크 연습 앱 https://apps.apple.com/kr/app/%EA%BE%B8%EC%9A%B1-%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC-%EC%97%B0%EC%8A%B5-%EC%96%B4%ED%94%8C/id6446475014
 - 디지털 약자에게 키오스크 사용법을 게임처럼 알려주는 앱
 <img width="1074" alt="스크린샷 2024-10-15 오후 2 48 51" src="https://github.com/user-attachments/assets/17e6ff50-9bc3-46ba-8c38-49456ef586c9">
 
-🙋 패션쇼 앱
+🙋 패션쇼 앱 https://apps.apple.com/kr/app/slay-%ED%8C%A8%EC%85%98%EC%87%BC%EC%9D%98-%EC%A4%91%EC%8B%AC-%EC%8A%AC%EB%A0%88%EC%9D%B4-%EC%9A%B0%EC%A3%BC-%EC%97%AC%ED%96%89-slay/id6478124040
 - 브랜드별 패션쇼 영상을 한눈에 모아볼 수 있는 앱
   <img width="856" alt="스크린샷 2024-10-15 오후 2 50 39" src="https://github.com/user-attachments/assets/e538f41f-d74d-42b6-944f-e82525999886">
 
