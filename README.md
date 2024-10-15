@@ -40,3 +40,7 @@ Here are some ideas to get you started:
 ![003](https://github.com/user-attachments/assets/0d5d68e0-bad8-410d-a416-b63af1fbaaf2)
 
 
+🙋 키오스크 연습 앱
+- 디지털 약자에게 키오스크 사용법을 게임처럼 알려주는 앱
+- 
+
