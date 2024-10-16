@@ -30,14 +30,16 @@ Here are some ideas to get you started:
 💬  Languages and Tools
 [앱스토어 확인하기](https://apps.apple.com/kr/app/%EC%BD%94%EC%9D%B8%EC%83%9D%ED%99%9C-%EC%98%AC%EB%B0%94%EB%A5%B8-%EC%BD%94%EC%9D%B8-%ED%88%AC%)
 
-🙋 코인생활 [앱스토어](https://github.com/user-attachments/assets/5f1897e6-57e8-45d9-9ea7-db31ca2a997f)
+🙋 코인생활 [앱스토어](https://apps.apple.com/kr/app/%EC%BD%94%EC%9D%B8%EC%83%9D%ED%99%9C-%EC%98%AC%EB%B0%94%EB%A5%B8-%EC%BD%94%EC%9D%B8-%ED%88%AC%EC%9E%90%EC%9D%98-%EC%8B%9C%EC%9E%91/id6720724248)
 - 가상자산 코인 포트폴리오 앱
+![코인생활-리드미-사진-001](https://github.com/user-attachments/assets/75646421-ae0d-4fed-a7a7-7ea643dd35f0)
 
 
 
-🙋 외줄타기 게임 - Tightrope game 
+🙋 외줄타기 게임 - Tightrope game [앱스토어](https://apps.apple.com/kr/app/tightrope-escape-game/id6478237125)
 - 외국인에게 한국전통놀이 외줄타기를 알려주는 tvOS 게임 앱
-[앱스토어](https://github.com/user-attachments/assets/0d5d68e0-bad8-410d-a416-b63af1fbaaf2)
+![003](https://github.com/user-attachments/assets/566a4b4c-39c7-4a44-b1b4-0e42bcd0acfb)
+
 
 
 🙋 키오스크 연습 앱 - kku-ouk [앱스토어](https://apps.apple.com/kr/app/%EA%BE%B8%EC%9A%B1-%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC-%EC%97%B0%EC%8A%B5-%EC%96%B4%ED%94%8C/id6446475014)
