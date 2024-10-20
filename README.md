@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 🙋 키오스크 연습 앱 - 꾸욱 [앱스토어](https://apps.apple.com/kr/app/%EA%BE%B8%EC%9A%B1-%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC-%EC%97%B0%EC%8A%B5-%EC%96%B4%ED%94%8C/id6446475014)
 - 디지털 약자에게 키오스크 사용법을 게임처럼 알려주는 앱
-- [앱소개 / 꾸욱 리드미](https://github.com/Acasiax/coinLife_README)
+- [앱소개 / 꾸욱 리드미](https://github.com/Acasiax/KkuOuk_README)
 <img width="1074" alt="스크린샷 2024-10-15 오후 2 48 51" src="https://github.com/user-attachments/assets/17e6ff50-9bc3-46ba-8c38-49456ef586c9">
 
 🙋 패션쇼 앱 - slay [앱스토어](https://apps.apple.com/kr/app/slay-%ED%8C%A8%EC%85%98%EC%87%BC%EC%9D%98-%EC%A4%91%EC%8B%AC-%EC%8A%AC%EB%A0%88%EC%9D%B4-%EC%9A%B0%EC%A3%BC-%EC%97%AC%ED%96%89-slay/id6478124040)
