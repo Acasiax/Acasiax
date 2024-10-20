@@ -30,13 +30,14 @@ Here are some ideas to get you started:
 
 🙋 코인생활 [앱스토어](https://apps.apple.com/kr/app/%EC%BD%94%EC%9D%B8%EC%83%9D%ED%99%9C-%EC%98%AC%EB%B0%94%EB%A5%B8-%EC%BD%94%EC%9D%B8-%ED%88%AC%EC%9E%90%EC%9D%98-%EC%8B%9C%EC%9E%91/id6720724248)
 - 가상자산 코인 포트폴리오 앱
-- [앱소개](https://github.com/Acasiax/coinLife_README/blob/main/README.md)
+- [앱소개 / 코인생활 리드미](https://github.com/Acasiax/KoreanTightrope_README)
 ![코인생활-리드미-사진-001](https://github.com/user-attachments/assets/75646421-ae0d-4fed-a7a7-7ea643dd35f0)
 
 
 
 🙋 외줄타기 게임 - Tightrope game [앱스토어](https://apps.apple.com/kr/app/tightrope-escape-game/id6478237125)
 - 외국인에게 한국전통놀이 외줄타기를 알려주는 tvOS 게임 앱
+- [앱소개 /Tightrope game]()
 ![003](https://github.com/user-attachments/assets/566a4b4c-39c7-4a44-b1b4-0e42bcd0acfb)
 
 
