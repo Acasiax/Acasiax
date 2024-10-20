@@ -26,7 +26,12 @@ Here are some ideas to get you started:
 1. 생일 캘린더 앱 'HBD 햅벋데' (SwiftUI)
 
 
-💬  Languages and Tools
+💬  Languages and Tools<br>
+<img src="https://img.shields.io/badge/xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
+<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
+
 
 🙋 코인생활 [앱스토어](https://apps.apple.com/kr/app/%EC%BD%94%EC%9D%B8%EC%83%9D%ED%99%9C-%EC%98%AC%EB%B0%94%EB%A5%B8-%EC%BD%94%EC%9D%B8-%ED%88%AC%EC%9E%90%EC%9D%98-%EC%8B%9C%EC%9E%91/id6720724248)
 - 가상자산 코인 포트폴리오 앱
