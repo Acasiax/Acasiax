@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github.com/Acasiax/Acasiax/assets/117105267/f0ce15d8-259c-4206-b215-b840a60892ee">-->
 
-📍 출시 앱
+출시 앱
 -------------
 1. 가상자산 포트폴리오 앱 "코인생활" (SwiftUI)
 1. tvOS GAME 게임 앱 'Korean tightrope game' (SpriteKit)
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 1. 생일 캘린더 앱 'HBD 햅벋데' (SwiftUI)
 
 
-💬  Languages and Tools<br>
+## Languages and Tools<br>
 <img src="https://img.shields.io/badge/xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
