@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github.com/Acasiax/Acasiax/assets/117105267/f0ce15d8-259c-4206-b215-b840a60892ee">-->
 
-출시 앱
+프로젝트
 -------------
 1. 가상자산 포트폴리오 앱 "코인생활" (SwiftUI)
 1. tvOS GAME 게임 앱 'Korean tightrope game' (SpriteKit)
-1. 패션쇼 앱 'SLAY' (SwiftUI)
+1. 반려동물 사진 대회 SNS 앱 '못난이' (UIKit)
 1. 키오스크 연습 앱 '꾸욱' (UIKit)
+1. 패션쇼 앱 'SLAY' (SwiftUI)
 1. 생일 캘린더 앱 'HBD 햅벋데' (SwiftUI)
 
 
