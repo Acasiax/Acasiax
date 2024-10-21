@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 
 🙋 웃긴 반려동물 사진 대회 앱 - 못난이
-- 못난이앱은 반려동물의 사진을 공유하고, 다른 사용자의 반려동물과 사진을 비교하여 월드컵 형식으로 대결을 즐길 수 있는 소셜 네트워크 앱 입니다.
+- 못난이앱은 반려동물의 사진을 공유하고, 다른 사용자의 반려동물과 사진을 비교하여 월드컵 형식으로 대결을 즐길 수 있는 소셜 네트워크 앱
 - [앱소개 / 못난이 리드미](https://github.com/Acasiax/MyuglyPet_README)
 ![못난이-리드미-사진-003 (1)](https://github.com/user-attachments/assets/e3cbb80d-9d08-488c-b92a-40fa69422d82)
 
