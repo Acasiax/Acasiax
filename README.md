@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
 <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
-<img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1582581609/noticon/cczbpahp5od6voerbvwr.svg"> <img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1592446943/noticon/fx4tfnyku4yyjj5ehyuq.png"> 
 <!-- <img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567399456/noticon/ynev3ykd0musp4yh5xs7.png"> -->
 ![](https://img.shields.io/badge/UIKit-2396F3.svg?style=flat&logo=uikit&logoColor=white)
 ![](https://img.shields.io/badge/SwiftUI-4255FF.svg?style=flat&logo=swift&logoColor=white)  
