@@ -37,11 +37,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/UIKit-2396F3.svg?style=flat&logo=uikit&logoColor=white)
 ![](https://img.shields.io/badge/SwiftUI-4255FF.svg?style=flat&logo=swift&logoColor=white)  
 ![](https://img.shields.io/badge/RxSwift-B7178C.svg?style=flat&logo=reactivex&logoColor=white)
-![](https://img.shields.io/badge/Combine-D5368E) 
-![](https://img.shields.io/badge/Swift%20Concurrency-D5368E)  
+![](https://img.shields.io/badge/Combine-D5368E)   
 ![](https://img.shields.io/badge/Firebase-DD2C00.svg?style=flat&logo=firebase&logoColor=white)
-![](https://img.shields.io/badge/NaverSDK-03C75A.svg?style=flat&logo=naver&logoColor=white)
-![](https://img.shields.io/badge/KakaoSDK-FFCD00.svg?style=flat&logo=kakao&logoColor=white)  
+ 
 <br>
 
 🙋 코인생활 [앱스토어](https://apps.apple.com/kr/app/%EC%BD%94%EC%9D%B8%EC%83%9D%ED%99%9C-%EC%98%AC%EB%B0%94%EB%A5%B8-%EC%BD%94%EC%9D%B8-%ED%88%AC%EC%9E%90%EC%9D%98-%EC%8B%9C%EC%9E%91/id6720724248)
